@@ -161,10 +161,6 @@ This app:
 
 See `Privacy Policy` for details.
 
-## 📄 License
-
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -190,23 +186,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [ ] iPad optimization with split view
 - [ ] Apple Watch companion app
 
-## 👨‍💻 Author
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/ar-lens-translate](https://github.com/yourusername/ar-lens-translate)
-
-## 🙏 Acknowledgments
-
-- Apple's Vision framework documentation
-- SwiftUI tutorials and community
-- Translation API providers
-- Open source Swift community
-
-## 📞 Support
-
-For support, email your@email.com or open an issue in the GitHub repository.
-
----
-
-Made with ❤️ and Swift
